@@ -4,7 +4,7 @@
 20 anos</br>
 Desenvolvedor front-end jr</br>
 
-CTO [Long Beach RP](https://discord.gg/longbeachrp) </br>
+My first project >  [Long Beach RP](https://discord.gg/longbeachrp) </br>
 
 </br>
 
