@@ -2,7 +2,7 @@
 </br>
 </br>
 21 anos</br>
-Desenvolvedor front-end </br>
+Front-end Developer </br>
 
 My first project >  [Long Beach RP](https://discord.gg/longbeachrp) </br>
 
