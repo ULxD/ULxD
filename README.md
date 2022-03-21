@@ -13,7 +13,8 @@ My first project >  [Long Beach RP](https://discord.gg/longbeachrp) </br>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22t6f3xivdjxtvk424vqgesgy)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](twitch.tv/ulxd)
 
-![ULxD GitHub stats](https://github-readme-stats.vercel.app/api?username=ulxd&show_icons=true&theme=tokyonight)
+![ULxD GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+
 
 
 
